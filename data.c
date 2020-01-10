@@ -7,7 +7,7 @@ int main()
  printf("MYdata is:");
  for(i=0;i<5;i++)
  {
-  printf("\n%s",data[i]);
+  printf("\t%s",data[i]);
  }
 return 0;
 }
