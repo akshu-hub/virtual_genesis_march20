@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+#include<string.h>
 int main()
 {
  char *data[]={"Hi","Iam akshata","Iam twenty years old","AND","Iam enginear"};
